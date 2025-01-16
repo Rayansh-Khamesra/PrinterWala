@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "198061567130",
+    "project_id": "printerwala-96cf5",
+    "storage_bucket": "printerwala-96cf5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198061567130:android:17a84c010f4d47d9170323",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-3a1u6KLDykzkBiIFfEuGU7LTuFwX5aE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
